@@ -1,0 +1,6 @@
+.venv/
+.mypy_cache/
+.env
+poetry.lock
+py.typed
+data/
